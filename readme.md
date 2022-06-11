@@ -11,3 +11,5 @@ Como usar o Git e GitHub
 - git merge (nome da branch) (junta as branchs)
 - git clone linkDoRepositorio (clonar o projeto)
 - git pull (atualiza um repositorio clonado)
+
+Alteração teste.
